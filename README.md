@@ -1,6 +1,8 @@
 # EBRNet
-EBRNet model: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolution
+EBRNet model: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolution.
+
 Code will be avaliable....
+
 Install
 1. Clone the repo:
    git clone https://github.com/dz0602pshr/EBRNet.git
