@@ -1,14 +1,13 @@
 # EBRNet
 EBRNet model: Lightweight Enhanced Bidirectional Recurrent Network for Satellite Video Super-Resolution
 
-
 Install
-1. Clone the repo
+1. Clone the repo:
    git clone https://github.com/dz0602pshr/EBRNet.git
-2. Install dependent packages
+3. Install dependent packages:
    cd EBRNet
    pip install -r requirements.txt
-3. Install BasicSR
+4. Install BasicSR:
     python setup.py develop
 
 Dataset Preparation:
