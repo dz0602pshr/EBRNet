@@ -17,7 +17,7 @@ Download the SAT-MTB-VSR dataset from zenodo or Baidu Netdisk and unzip it to da
 python scripts/data_preparation/create_lmdb.py
 
 Pretrained Models
-Download the pretrained models from 链接: https://pan.baidu.com/s/1bImRcNeZWRmYvOgZaTB3hQ?pwd=wthe (提取码: wthe) and put them in experiments/pretrained_models/SAT-MTB-VSR/.
+Download the pretrained models from 链接: https://pan.baidu.com/s/1bImRcNeZWRmYvOgZaTB3hQ?pwd=wthe and put them in experiments/pretrained_models/SAT-MTB-VSR/.
 
 Test
 1. Single GPU
